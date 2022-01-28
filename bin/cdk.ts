@@ -7,8 +7,8 @@ import { Bastion } from "../lib/bastion";
 
 const app = new cdk.App();
 
-const { vpc } = new Network(app, "aurora-test-network2");
+const { vpc } = new Network(app, "aurora-test-network");
 
-const { dbClaster } = new Database(app, "aurora-test-database2", { vpc });
+const { dbClaster } = new Database(app, "aurora-test-database", { vpc });
 
-new Bastion(app, "aurora-test-bastion2", { vpc, dbClaster });
+new Bastion(app, "aurora-test-bastion", { vpc, dbClaster });
