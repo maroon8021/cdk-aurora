@@ -60,3 +60,17 @@ https://qiita.com/Shitimi_613/items/bcd6a7f4134e6a8f0621
 https://qiita.com/shonansurvivors/items/4522f15c5e9a30860bc5
 
 https://stackoverflow.com/questions/9556474/how-do-i-automatically-update-a-timestamp-in-postgresql
+
+https://docs.aws.amazon.com/ja_jp/AmazonRDS/latest/AuroraUserGuide/Concepts.DBInstanceClass.html#Concepts.DBInstanceClass.SupportAurora
+
+
+### cdks
+https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_rds-readme.html#starting-a-clustered-database
+https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_ec2-readme.html#bastion-hosts
+https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_ssm-readme.html
+https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_secretsmanager-readme.html
+https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_iam-readme.html
+
+
+?
+https://dev.to/cjjenkinson/how-to-create-an-aurora-serverless-rds-instance-on-aws-with-cdk-5bb0
